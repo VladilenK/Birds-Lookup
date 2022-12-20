@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/VladilenK/Birds-Lookup.git
 git push -u origin main
 
+npx create-react-app frontend
