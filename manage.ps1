@@ -18,6 +18,8 @@ git push -u origin main
 6 - python manage.py runserver
 #>
 
+
+
 python manage.py runserver
 
 git add *
